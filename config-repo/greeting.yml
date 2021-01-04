@@ -1,0 +1,9 @@
+server:
+  port: 9090
+variables:
+  greeting: Hello
+  greetings:
+    EN: Hello
+    ES: Hola
+    DE: Hallo
+    ZH: 你好
